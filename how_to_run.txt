@@ -1,0 +1,3 @@
+To run the file create virtaul environment
+then install the dependencies
+python 
